@@ -13,4 +13,4 @@ This is the code we used for the Hackathon.
 * [Alex](https://github.com/sandpipes)
 * [Kevin](https://github.com/kevinpatel06) 
 * [Salem](https://github.com/Trixxies)
-* Yoah
+* [Yoah](https://github.com/yoahqiu)
